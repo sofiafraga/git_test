@@ -1,0 +1,1 @@
+This is Sofi's first git project! woohoo!
